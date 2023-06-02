@@ -1,0 +1,108 @@
+body{
+background: #ECECEC
+}
+
+.nav-wrapper{
+	background: #A60000
+}
+
+.page-footer{
+	background: #970000
+} 
+
+.rightimg {
+float: right; /* Вирівнювання по правому краю */
+margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
+
+.one{
+	
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+}
+
+.ooo{
+ font-family: 'Crimson Text', serif;
+ font-size: 50px; 
+}
+
+.two{
+	
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+}
+
+.ttt{
+ font-family: 'Crimson Text', serif;
+ font-size: 50px; 
+}
+
+.leftimg {
+float:left; /* Вирівнювання по лівому краю */
+margin: 7px 7px 7px 0; /* Відступи навколо картинки */
+}
+
+.lis{
+ font-family: 'Crimson Text', serif;
+ font-size: 50px; 
+}
+
+.liso{
+ font-family: 'Crimson Text', serif;
+ font-size: 45px; 
+
+}
+
+.lol{
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+}
+
+.lisboa{
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+}
+
+.lip{
+ font-family: 'Crimson Text', serif;
+ font-size: 45px; 
+}
+
+.lys{
+ font-family: 'Crimson Text', serif;
+ font-size: 50px; 
+}
+
+.los{
+ font-family: 'Crimson Text', serif;
+ font-size: 40px; 
+
+.rightimg {
+float: right; /* Вирівнювання по правому краю */
+margin: 0 7px 7px 7px; /* Відступи навколо картинки */
+}
+
+.los{
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+}
+
+.leftimg {
+float:left; /* Вирівнювання по лівому краю */
+margin: 7px 7px 7px 0; /* Відступи навколо картинки */
+}
+
+.lis{
+ font-family: 'Crimson Text', serif;
+ font-size: 50px;
+margin-left: 150px;
+}
+
+
+
+
+
+
+
+
+
